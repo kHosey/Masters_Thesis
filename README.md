@@ -6,5 +6,7 @@ http://cabbageaudio.com/download/
 
 Description of effects:
 Chrysalis is a real time spectral blur effect.
+
 Flexure is a frequency warping plugin.
+
 Specter is a spectral delay effect that also allows for filtering and individual partial selection of the input sound.
