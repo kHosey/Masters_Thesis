@@ -1,4 +1,4 @@
-# Spectral_Effects
+# Spectral Effects
 A suite of spectral plugins written in the Csound audio programming language. Sound files and an external are included in this folder.
 
 To run these plugins the framework Cabbage needs to be installed:
