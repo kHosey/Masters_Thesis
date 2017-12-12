@@ -5,6 +5,7 @@ To run these plugins the framework Cabbage needs to be installed:
 http://cabbageaudio.com/download/
 
 Description of effects:
+
 Chrysalis is a real time spectral blur effect.
 
 Flexure is a frequency warping plugin.
